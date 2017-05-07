@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="myArray">
+        <item name="o1">@drawable/o1</item>
+        <item name="o2">@drawable/o2</item>
+        <item name="o3">@drawable/o3</item>
+        <item name="o4">@drawable/o4</item>
+        <item name="o5">@drawable/o5</item>
+        <item name="o6">@drawable/o7</item>
+        <item name="o7">@drawable/o8</item>
+        <item name="o8">@drawable/o9</item>
+    </array>
+
+    <array name="categoryReferences">
+        <item name="c1">@array/categoriesFiat</item>
+        <item name="c2">@array/categoriesToyota</item>
+    </array>
+</resources>

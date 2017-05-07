@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Zadanie6</string>
+
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+    <string name="button4">Button 4</string>
+
+    <string-array name="myNames">
+        <item>Obraz 1</item>
+        <item>Obraz 2</item>
+        <item>Obraz 3</item>
+        <item>Obraz 4</item>
+        <item>Obraz 5</item>
+        <item>Obraz 6</item>
+        <item>Obraz 7</item>
+        <item>Obraz 8</item>
+    </string-array>
+
+    <string-array name="categoriesFiat">
+        <item>Multipla</item>
+        <item>Panda</item>
+        <item>Punto</item>
+        <item>Seicento</item>
+    </string-array>
+
+    <string-array name="categoriesToyota">
+        <item>Yaris</item>
+        <item>Avensis</item>
+        <item>Aygo</item>
+    </string-array>
+
+    <string name="title_activity_simple_list">SimpleListActivity</string>
+</resources>
